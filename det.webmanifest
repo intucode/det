@@ -1,0 +1,23 @@
+{
+ "name": "DET 단어장",
+ "short_name": "DET 단어",
+ "lang": "ko",
+ "start_url": "/det/index.html",
+ "scope": "/det/",
+ "display": "standalone",
+ "background_color": "#f3ede1",
+ "theme_color": "#f3ede1",
+ "icons": [
+  {
+   "src": "icon-180.png",
+   "sizes": "180x180",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  }
+ ]
+}
